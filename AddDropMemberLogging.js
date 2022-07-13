@@ -1,5 +1,3 @@
-//Demo by Falcon 
-
 /*
  * Copyright 2002 by Mortice Kern Systems Inc. All rights reserved.
  */
