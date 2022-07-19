@@ -1,3 +1,4 @@
+//Just for demo purpose
 class CHNConfigManager// : public fiTimerPerformer
 {
   public:
