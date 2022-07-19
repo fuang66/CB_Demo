@@ -1,3 +1,5 @@
+//Just for demo purpose
+
 FI_INT CHNConfigManager::GetVolumeValue()
 {
 	return m_pConfigManager->GetVolumeValue();
