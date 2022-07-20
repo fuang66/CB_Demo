@@ -1,4 +1,5 @@
 //Just for demo
+//Just for demo again
 
 
 #ifndef _CONFIG_MANAGER_H
@@ -13,9 +14,9 @@ typedef void (*DialogPopupHandler)();
 /////////////////////////////////////////////////////////////////////////////////
 enum HSTATE
 {
-	HSTATE_2D_NORTH_UP=0,//¥¿¥_´Â¤W	(¹Ï¤£°Ê;Âà¨®ÀY;µLTilt)
-	HSTATE_2D_HEADING_UP=1,//¨®ÀY´Â¤W	(¹Ï±ÛÂà;¨®¤£°Ê;µLTilt)
-	HSTATE_3D_HEADING_UP=2,//¨®ÀY´Â¤W	(¹Ï±ÛÂà;¨®¤£°Ê;¦³Tilt)
+	HSTATE_2D_NORTH_UP=0,//æ­£åŒ—æœä¸Š	(åœ–ä¸å‹•;è½‰è»Šé ­;ç„¡Tilt)
+	HSTATE_2D_HEADING_UP=1,//è»Šé ­æœä¸Š	(åœ–æ—‹è½‰;è»Šä¸å‹•;ç„¡Tilt)
+	HSTATE_3D_HEADING_UP=2,//è»Šé ­æœä¸Š	(åœ–æ—‹è½‰;è»Šä¸å‹•;æœ‰Tilt)
 	HSTATE_HUD_NAVI=3,
 
 	TOTAL_HEADING_STATE
