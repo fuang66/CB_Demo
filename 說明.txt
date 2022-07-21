@@ -1,2 +1,4 @@
+Just for demo
+
 CConfigManager為SDK供應商提供的.h
 ConfigVol的.h與.cpp包覆一層的code
